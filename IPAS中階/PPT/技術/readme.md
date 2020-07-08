@@ -3,7 +3,10 @@
 2.1.具備弱點、攻擊與攻擊實務能力，包含弱點、威脅分類與攻擊手法、防護與應變實務。
 2.2.具備作業安全實務能力，包含安全維運、滲透測試、源碼檢測及資安健檢 。
 ```
-
+#
+```
+https://ctts.nccst.nat.gov.tw/Download
+```
 # 技術證照
 ```
 OSCP （Offensive Security Certified Professional）認證
