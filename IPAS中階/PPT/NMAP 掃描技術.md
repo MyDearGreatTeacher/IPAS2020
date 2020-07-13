@@ -9,6 +9,16 @@ D. nmap -sV 192.168.1.254
 
 c
 
+```
+NMAP -sn 192.168.11.200-215
+The NMAP command above performs which of the following?
+A. A ping scan
+B. A trace sweep
+C. An operating system detect
+D. A port scan
+```
+Answer: A
+
 # NMAP 掃描技術
 ```
 http://n.sfs.tw/content/index/10505
