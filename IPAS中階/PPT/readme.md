@@ -23,6 +23,28 @@
 Cellopoint 發表新版「退信攻擊防禦」技術
 http://www.cellopoint.com/tw/media_resources/news/cellopoint-pr-bounce-mail-prevent
 ```
+```
+微軟Windows遠端桌面服務存在安全漏洞(CVE-2019-0708)
+https://www.ithome.com.tw/news/130646
+
+[CVE-2019-0708] BlueKeep, RDP Remote Code Execution PoC
+https://www.youtube.com/watch?v=zyC-IVKiS3E
+
+BlueKeep - Exploit windows (RDP Vulnerability) Remote Code Execution
+https://www.youtube.com/watch?v=y-KsMgswEuk
+https://blog.rapid7.com/2019/09/06/initial-metasploit-exploit-module-for-bluekeep-cve-2019-0708/
+
+https://pentest-tools.com/blog/bluekeep-exploit-metasploit/
+```
+```
+勒索軟體攻擊及防禦
+
+如何避免勒索軟體攻擊
+Dell EMC Cyber Recovery 解決方案 企業對抗勒索軟體最佳選擇
+遠離破壞性網路攻擊、避風港計畫再進化
+文/廠商新聞稿 | 2020-04-06發表
+https://www.ithome.com.tw/pr/136753
+```
 #### 1.Webshell
 ```
 WebShell工具:中国蚁剑AntSword
