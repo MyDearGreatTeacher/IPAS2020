@@ -19,6 +19,18 @@ D. A port scan
 ```
 Answer: A
 
+
+```
+Which Nmap option would you use if you were not concerned about being detected and
+wanted to perform a very fast scan?
+A. -T0
+B. -T5
+C. -O
+D. -A
+```
+
+Answer: B
+
 # NMAP 掃描技術
 ```
 http://n.sfs.tw/content/index/10505
