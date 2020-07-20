@@ -1,3 +1,16 @@
+#
+```
+技服簡報
+教材下載: https://www.nccst.nat.gov.tw/Handout?lang=zh
+政府組態基準(Government Configuration Baseline，簡稱GCB):
+https://www.nccst.nat.gov.tw/GCB
+
+資安職能:https://ctts.nccst.nat.gov.tw/
+https://ctts.nccst.nat.gov.tw/Download
+
+https://ctts.nccst.nat.gov.tw/Download
+```
+
 # IPAS2020
 ```
 SP 800-37 Rev. 2
