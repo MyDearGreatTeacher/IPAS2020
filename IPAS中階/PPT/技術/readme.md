@@ -32,9 +32,14 @@ Log Analysis for Web Attacks: A Beginner’s Guide
 https://resources.infosecinstitute.com/log-analysis-web-attacks-beginners-guide/#gref
 ```
 
-
-
-
+```
+Apache Attack samples 攻擊APache 伺服器的日誌分析實例
+https://ossec-docs.readthedocs.io/en/stable/log_samples/apache/apache_attacks.html
+```
+```
+APACHE Security APACHE 安全機制
+https://www.feistyduck.com/library/apache-security/online/apachesc-CHP-8.html
+```
 # 技服簡報
 ```
 教材下載: https://www.nccst.nat.gov.tw/Handout?lang=zh
