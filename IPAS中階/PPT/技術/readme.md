@@ -13,11 +13,18 @@ https://www.acunetix.com/blog/articles/using-logs-to-investigate-a-web-applicati
 
 [3]WINDOWS DNS  CVE-2020-1350
 [4] RDP 漏洞
-
-
 ```
+```
+閱讀底下文章說明
+https://www.acunetix.com/blog/articles/using-logs-to-investigate-a-web-application-attack/
 
-
+說明底下安全強化的作法
+Step 1. Operating System Hardening
+Step 2. Network Hardening
+Step 3. Web Server Hardening
+Step 4. Web Application Hardening
+Step 5. Continuous Hardening
+```
 # 技服簡報
 ```
 教材下載: https://www.nccst.nat.gov.tw/Handout?lang=zh
