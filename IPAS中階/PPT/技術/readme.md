@@ -40,6 +40,11 @@ https://ossec-docs.readthedocs.io/en/stable/log_samples/apache/apache_attacks.ht
 APACHE Security APACHE 安全機制
 https://www.feistyduck.com/library/apache-security/online/apachesc-CHP-8.html
 ```
+```
+保護 SQL Server 的安全
+2019/06/21
+https://docs.microsoft.com/zh-tw/sql/relational-databases/security/securing-sql-server?view=sql-server-ver15
+```
 # 技服簡報
 ```
 教材下載: https://www.nccst.nat.gov.tw/Handout?lang=zh
