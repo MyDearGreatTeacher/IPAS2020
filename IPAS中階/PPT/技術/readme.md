@@ -1,3 +1,5 @@
+# 恩師箴言錄: 在正確的時間  用正確的方法  做正確的事
+
 # 能力指標
 ```
 2.1.具備弱點、攻擊與攻擊實務能力，包含弱點、威脅分類與攻擊手法、防護與應變實務。
@@ -25,6 +27,14 @@ Step 3. Web Server Hardening
 Step 4. Web Application Hardening
 Step 5. Continuous Hardening
 ```
+```
+Log Analysis for Web Attacks: A Beginner’s Guide
+https://resources.infosecinstitute.com/log-analysis-web-attacks-beginners-guide/#gref
+```
+
+
+
+
 # 技服簡報
 ```
 教材下載: https://www.nccst.nat.gov.tw/Handout?lang=zh
